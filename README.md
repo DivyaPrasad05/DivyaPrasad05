@@ -33,5 +33,5 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/divya-prasad/) 
 ### Leetcode Stats
 
 ---
-Follow me along my Leetcode Journey!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/divyaprasad)
+Watch my progress on Leetcode!
