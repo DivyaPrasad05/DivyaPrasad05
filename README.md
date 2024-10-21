@@ -1,6 +1,6 @@
 ### Hey, I’m Divya 👋
 
-Learn more about me on my ~~[website](https://thedivyaprasad.com/)~~ (currently under renovations 🔨)  and check out my [resume](#) for more on my formal experience.
+Learn more about me on my ~~[website](https://thedivyaprasad.com/)~~ (currently under renovations 🔨)  and check out my [resume](https://github.com/DivyaPrasad05/DivyaPrasad05/raw/main/Divya_Prasad_Resume.pdf) for more on my formal experience.
 
 ### What I’m Currently Up To
 
