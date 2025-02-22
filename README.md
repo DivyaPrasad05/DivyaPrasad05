@@ -9,7 +9,6 @@ Learn more about me on my [website](https://thedivyaprasad.com/) and check out m
 - Completing my undergrad in Computer Science @UniversityofAlberta 🏫
 - Exploring new side projects in AI/ML and optimization 🧠
 - Learning Go + Redis
-- Dabbling in VR Development (more to come 👀)
 
 ### What I’ve Done
 
