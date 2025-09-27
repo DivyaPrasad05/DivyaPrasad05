@@ -27,7 +27,7 @@ Learn more about me on my [website](https://thedivyaprasad.com/) and check out m
 
 ---
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/divya-prasad-11/) or via email (dprasad1@ualberta.ca)! I’m always excited to connect with like-minded people and collaborate on interesting side projects.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/divya-prasad11/) or via email (dprasad1@ualberta.ca)! I’m always excited to connect with like-minded people and collaborate on interesting side projects.
 
 ### Leetcode Stats
 
